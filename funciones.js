@@ -33,12 +33,12 @@ if (message.body === 'hola') {
     message.reply('Hola, ¿cómo estás?');
 }
 
-if (message.body === 'puta') {
-    message.reply('tu madre');
+if (message.body === 'hace frio') {
+    message.reply('si, hace frio, te recomiendo abrigarte bien');
 }
 
-if (message.body === 'puto') {
-    message.reply('tu padre');
+if (message.body === 'hace calor') {
+    message.reply('si, hace calor, te recomiendo tomar mucha agua');
 }
 
 // Envia un archivo local
